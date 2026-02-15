@@ -32,5 +32,7 @@ This lab demonstrates a complete pattern recognition pipeline which includes det
 
 ## Author
 Adityapratap Singh Parmar
+
 U20240025
+
 Spring Semester 2026
